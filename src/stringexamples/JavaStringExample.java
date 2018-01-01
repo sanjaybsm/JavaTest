@@ -1,3 +1,5 @@
+package stringexamples;
+
 /**
  * Created by Sanjay_Shivanna on 12/23/2017.
  */

@@ -1,4 +1,6 @@
-import designpatter.Person;
+import designpattern.builder.Person;
+
+import static java.util.UUID.randomUUID;
 
 /**
  * Created by Sanjay_Shivanna on 12/25/2017.
@@ -16,6 +18,10 @@ public class TestExamples {
 
         /*Example of values*/
         System.out.println("age"+person.getAge()+"size"+person.getSize()+"hieght"+person.getHieght());
+
+
+        /*java UUID example*/
+        System.out.println(randomUUID());
     }
 }
 

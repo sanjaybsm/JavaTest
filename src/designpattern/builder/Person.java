@@ -1,4 +1,4 @@
-package designpatter;
+package designpattern.builder;
 
 /**
  * Created by Sanjay_Shivanna on 12/25/2017.
